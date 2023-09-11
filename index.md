@@ -3,9 +3,9 @@ layout: about
 ---
 
 # About Me
-I'm a PhD student at Ocean University of China.
-I'm a schoolboy in the field of artificial intelligence, a little junkie in the field of oceanorgraphy.
-I'm committed to AI for Ocean.
+I'm a PhD student at Ocean University of China. \
+I'm a schoolboy in the field of artificial intelligence, a little junkie in the field of oceanorgraphy. \
+I'm committed to AI for Ocean. \
 
 <br/>
 
