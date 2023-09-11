@@ -1,13 +1,13 @@
 # Site settings
-title: A.P
+title: Home Page
 baseurl: ""
 url: "https://LinyaoGe.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
+  name: Linyao GE
+  desc: A young student in the field of artificial intelligence oceanography
   email: ksub0912@gmail.com
   selfie: assets/img/profile.jpg
 
