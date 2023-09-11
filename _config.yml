@@ -19,7 +19,7 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: boomkalala
   google_plus:
   instagram:
   keybase:
@@ -58,5 +58,3 @@ exclude:
   - "Gemfile.lock"
   - "*.gem"
   - "LICENSE"
-  - "READE.md"
-  - "screenshot.png"
