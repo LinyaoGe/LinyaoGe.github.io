@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Head"
+title:  "Head of the Group"
 name: "Baoxiang Huang"
 email: "hbx@163.com"
 url: https://baoxianghuang.github.io/
