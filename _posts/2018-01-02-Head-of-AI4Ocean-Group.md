@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Head of AI4Ocean Group"
+title:  "Head"
 name: "Baoxiang Huang"
 email: "hbx@163.com"
 url: https://baoxianghuang.github.io/
